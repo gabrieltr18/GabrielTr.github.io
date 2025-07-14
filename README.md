@@ -3,7 +3,13 @@
 #### Technical Skills: Python, SQL, Tableau, PowerBI
 
 ## Educacion
-Analista QA | Practicum Bootcamp | TripleTen Marzo 2024 - Abril 2025
+![Educacion](/assets/img/Education.jpg)
+**Ingeniería en Computación Universidad de Oriente (UDO), Núcleo de Anzoátegui | Barcelona, Anzoátegui, Venezuela**
+Septiembre 2015 – Julio 2025
+
+Actualmente cursando el último año de Ingeniería en Computación, esta formación me ha proporcionado una sólida base en los principios fundamentales de la informática, el diseño de sistemas, estructuras de datos, algoritmos y gestión de proyectos. He desarrollado habilidades clave en resolución de problemas complejos, pensamiento lógico y fundamentos de programación, esenciales para el análisis y la manipulación de grandes volúmenes de datos.
+
+**Analista QA | Practicum Bootcamp | TripleTen Marzo 2024 - Abril 2025**
 
 - Diseño y ejecución de más de 100 casos de prueba basados en requisitos funcionales.
 - Colaboración con equipos multiculturales de desarrollo y analistas para analizar requisitos y resolver zonas grises funcionales.
