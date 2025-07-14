@@ -1,3 +1,5 @@
-title: Gabriel Trujillo
+title: Shaw Talebi
 logo: /assets/img/Profile.png
-themes: jekyll-theme-minimal
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
