@@ -2,10 +2,7 @@
 
 #### Technical Skills: Python, SQL, Tableau, PowerBI
 
-### Perfil Profesional
-Profesional en Ciencia de Datos con experiencia en el análisis de datos y negocio, utilizando herramientas como SQL, Python y software de BI como Tableau y Power BI. Poseo habilidades avanzadas en la visualización de datos, permitiendo la identificación de tendencias y patrones que impactan en la toma de decisiones. Mi enfoque centrado en el cliente y mi capacidad para colaborar en entornos multidisciplinarios me permiten abordar desafíos complejos de manera efectiva, optimizando procesos y apoyando la innovación. Con un historial en IT Support, estoy preparado para enfrentar los retos del mundo tecnológico actual y aportar valor tangible a la organización.
-
-### Educacion
+## Educacion
 Analista QA | Practicum Bootcamp | TripleTen Marzo 2024 - Abril 2025
 
 - Diseño y ejecución de más de 100 casos de prueba basados en requisitos funcionales.
@@ -14,8 +11,43 @@ Analista QA | Practicum Bootcamp | TripleTen Marzo 2024 - Abril 2025
 - Realización de pruebas funcionales y de regresión en aplicaciones móviles mediante Android Studio.
 - Automatización de pruebas con Selenium, logrando un ahorro del 20% en tiempo de pruebas repetitivas.
 
-### Experiencia Laboral
-IT Support and Data Analyst | Camor Enterprise Mayo 2019 - Actualidad
+## Experiencia Laboral
+![Work_Experience](/assets/img/WorkExperience.PNG)
+
+### IT Support | Cuenta Propia, Camor Enterprise | Febrero 2014 - 2019
+
+En este rol inicial, fui el **primer punto de contacto técnico**, asegurando la operatividad diaria de los sistemas para diversos clientes. Mis responsabilidades se centraban en mantener la infraestructura tecnológica funcionando de manera eficiente.
+
+* **Provisión de Soporte Técnico Integral:** Proporcioné asistencia técnica presencial y remota, resolviendo problemas de hardware, software y conectividad para garantizar la continuidad operativa de los clientes.
+* **Gestión y Mantenimiento de Sistemas:** Realicé la instalación, configuración y mantenimiento preventivo de sistemas operativos y aplicaciones, optimizando su rendimiento y resolviendo incidencias comunes.
+* **Manejo de Incidencias:** Diagnostiqué y solucioné rápidamente fallas y errores de usuario, minimizando interrupciones y mejorando la satisfacción del cliente.
+* **Documentación de Procesos:** Inicié la creación de documentación básica para problemas recurrentes y soluciones, facilitando futuras referencias y estandarizando procedimientos.
+
+---
+
+### Junior Systems Implementer | Cuenta Propia, Camor Enterprise | Febrero 2018 - 2022
+
+Durante este período, me especialicé en la **implementación de sistemas administrativos y bases de datos**, actuando como un puente entre la tecnología y las necesidades operativas del cliente. Este rol marcó mi incursión en el manejo de datos a un nivel más fundamental.
+
+* **Implementación de Sistemas Administrativos:** Colaboré activamente en la instalación y configuración de sistemas de gestión empresarial (ERP/CRM), adaptándolos a los requerimientos específicos de cada cliente.
+* **Soporte en Instalación de Bases de Datos (SQL Server):** Adquirí conocimientos y asistí en la instalación y configuración inicial de servidores SQL Server, asegurando la infraestructura para el almacenamiento y acceso a los datos.
+* **Modificación de Reportes Estándar:** Realicé personalizaciones y ajustes en reportes utilizando herramientas como Visual FoxPro, Crystal Reports y otras plataformas, permitiendo a los clientes obtener la información necesaria para sus operaciones diarias.
+* **Colaboración en la Integración de Sistemas:** Trabajé en conjunto con equipos para asegurar la correcta interconexión de los sistemas instalados con otras herramientas de negocio, mejorando el flujo de información.
+* **Aprendizaje y Adaptación Continua:** Demostré una fuerte capacidad de aprendizaje autodidacta en nuevas tecnologías y herramientas de manejo de datos, sentando las bases para roles más especializados.
+
+---
+
+### IT Support Data Analyst | Cuenta Propia, Camor Enterprise | Febrero 2022 - Actualidad
+
+Actualmente, combino mi experiencia en soporte TI con una especialización profunda en el **análisis de datos y la integridad de la información**, convirtiéndome en un recurso clave para la toma de decisiones basada en datos y la recuperación de información crítica.
+
+* **Desarrollo de Consultas SQL Avanzadas:** Creé y ejecuté consultas SQL complejas para extraer datos específicos y detallados, apoyando análisis minuciosos y la generación de reportes personalizados para clientes.
+* **Validación y Consistencia de Datos:** Implementé procedimientos para auditar y validar la consistencia de los datos en bases de datos (SQL Server), identificando y corrigiendo errores, especialmente aquellos derivados de fallas de energía o interrupciones del sistema.
+* **Recuperación y Actualización de Datos Críticos:** Desarrollé soluciones para actualizar y recuperar registros incompletos o dañados post-fallas sistémicas, asegurando la integridad y disponibilidad de la información de negocio.
+* **Análisis de Causas Raíz:** Investigué y determiné las causas subyacentes de inconsistencias y errores de datos, proponiendo soluciones preventivas y mejoras en los procesos.
+* **Soporte a la Toma de Decisiones:** Transformé datos brutos en insights accionables, permitiendo a los clientes tomar decisiones más informadas sobre sus operaciones y estrategias.
+
+---
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
