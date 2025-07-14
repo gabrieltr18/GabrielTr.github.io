@@ -12,7 +12,7 @@ Analista QA | Practicum Bootcamp | TripleTen Marzo 2024 - Abril 2025
 - Automatización de pruebas con Selenium, logrando un ahorro del 20% en tiempo de pruebas repetitivas.
 
 ## Experiencia Laboral
-![Work_Experience](/assets/img/WorkExperience.PNG)
+![Work_Experience](/assets/img/WorkExperience.JPG)
 
 ### IT Support | Cuenta Propia, Camor Enterprise | Febrero 2014 - 2019
 
