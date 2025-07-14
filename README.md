@@ -1,6 +1,6 @@
 # Gabriel Trujillo
 
-#### Technical Skills: Python, SQL, Tableau, PowerBI
+#### Technical Skills: Python, Java, SQL, Tableau, PowerBI
 
 ## Educacion
 ![Educacion](/assets/img/Education.jpg)
