@@ -54,5 +54,21 @@ Actualmente, combino mi experiencia en soporte TI con una especialización profu
 
 ---
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+## Proyectos
+### ---
+
+### Automatización de Conciliación Bancaria Masiva | Camor Enterprise
+**Julio 2025 (y recurrente quincenalmente)**
+
+Este proyecto estratégico para Camor Enterprise implicó el desarrollo y la implementación de un **script SQL avanzado** para la conciliación eficiente de movimientos bancarios a gran escala, un proceso crítico que afecta a las operaciones financieras de 15 tiendas.
+
+* **Problema Abordado:** Antes de mi intervención, la conciliación de un alto volumen de transacciones bancarias (entre 1.000 y 1.500 movimientos por tienda, quincenalmente) era un proceso manual, propenso a errores y extremadamente consumidor de tiempo.
+* **Solución Desarrollada:** Diseñé e implementé un **script SQL utilizando un cursor** que automatiza gran parte del proceso de conciliación. Este script recorre una tabla de staging (creada por mí) que contiene movimientos bancarios pre-conciliados. Luego, compara estos registros con los movimientos existentes en el sistema contable de la empresa y procede a conciliar automáticamente aquellos que han sido validados.
+* **Impacto y Beneficios Clave:**
+    * **Eficiencia Operacional:** Reduje drásticamente el tiempo y el esfuerzo manual requeridos para la conciliación bancaria, permitiendo al equipo financiero enfocarse en tareas de mayor valor.
+    * **Precisión de Datos:** Mejoré significativamente la consistencia y fiabilidad de los registros financieros al automatizar la validación y conciliación de miles de transacciones.
+    * **Consistencia Financiera:** Aseguré que los datos bancarios externos se reflejaran de manera precisa y oportuna en el sistema interno de la empresa, crucial para auditorías y toma de decisiones financieras.
+    * **Mantenimiento y Sostenibilidad:** El script se ejecuta **quincenalmente**, garantizando una conciliación continua y oportuna, demostrando la sostenibilidad y adaptabilidad de la solución implementada.
+* **Tecnologías Utilizadas:** SQL (específicamente, uso de cursores y lógica de comparación de datos), Gestión de Bases de Datos.
+
+---
