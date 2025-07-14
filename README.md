@@ -19,7 +19,7 @@ Analista QA | Practicum Bootcamp | TripleTen Marzo 2024 - Abril 2025
 En este rol inicial, fui el **primer punto de contacto técnico**, asegurando la operatividad diaria de los sistemas para diversos clientes. Mis responsabilidades se centraban en mantener la infraestructura tecnológica funcionando de manera eficiente.
 
 * **Provisión de Soporte Técnico Integral** 
-* **Gestión y Mantenimiento de Sistemas** 
+* **Gestión y Mantenimiento de Sistemas**
 * **Manejo de Incidencias** 
 * **Documentación de Procesos**
 
