@@ -50,7 +50,7 @@ Actualmente cursando el último año de Ingeniería en Computación, esta formac
 ## Proyectos
 ### ---
 
-### Automatización de Conciliación Bancaria Masiva | Camor Enterprise [Repo](https://github.com/gabrieltr18/Conciliacion_Bancaria)
+### 1. Automatización de Conciliación Bancaria Masiva | Camor Enterprise [Repo](https://github.com/gabrieltr18/Conciliacion_Bancaria)
 **Julio 2025 (y recurrente quincenalmente)**
 
 Este proyecto estratégico para Camor Enterprise implicó el desarrollo y la implementación de un **script SQL avanzado** para la conciliación eficiente de movimientos bancarios a gran escala, un proceso crítico que afecta a las operaciones financieras de 15 tiendas.
@@ -68,11 +68,10 @@ Este proyecto estratégico para Camor Enterprise implicó el desarrollo y la imp
 
 
 ### ---
-## Proyectos Destacados
 
-### 1. Optimización de Gastos de Marketing para Showz (Análisis de Datos) [REPO](https://github.com/gabrieltr18/Optimizacion_Gastos)
+### 2. Optimización de Gastos de Marketing para Showz (Análisis de Datos) [REPO](https://github.com/gabrieltr18/Optimizacion_Gastos)
 
-**Descripción:** Como analista de datos en prácticas para Showz, una empresa de venta de entradas para eventos, mi proyecto principal fue optimizar los gastos de marketing mediante un análisis exhaustivo del comportamiento del cliente y la rentabilidad de las campañas. Utilicé **Python (Pandas, NumPy, Matplotlib, Seaborn)** y **SQL** para procesar y visualizar datos de visitas al sitio web, pedidos y costos de marketing.
+**Descripción:** Como analista de datos en prácticas para Showz, una empresa de venta de entradas para eventos, mi proyecto principal fue optimizar los gastos de marketing mediante un análisis exhaustivo del comportamiento del cliente y la rentabilidad de las campañas. 
 
 **Objetivos de la Investigación:**
 * Comprender el **comportamiento del cliente** y su interacción con el servicio.
