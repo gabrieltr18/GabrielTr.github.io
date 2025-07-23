@@ -20,9 +20,6 @@ Actualmente cursando el último año de Ingeniería en Computación, esta formac
 ![Work_Experience](/assets/img/WorkExperience.jpg)
 
 ### IT Support | Cuenta Propia, Camor Enterprise | Febrero 2014 - 2019
-
-En este rol inicial, fui el **primer punto de contacto técnico**, asegurando la operatividad diaria de los sistemas para diversos clientes. Mis responsabilidades se centraban en mantener la infraestructura tecnológica funcionando de manera eficiente.
-
 * **Provisión de Soporte Técnico Integral** 
 * **Gestión y Mantenimiento de Sistemas**
 * **Manejo de Incidencias** 
@@ -31,8 +28,6 @@ En este rol inicial, fui el **primer punto de contacto técnico**, asegurando la
 ---
 
 ### Junior Systems Implementer | Cuenta Propia, Camor Enterprise | Febrero 2018 - 2022
-
-Durante este período, me especialicé en la **implementación de sistemas administrativos y bases de datos**, actuando como un puente entre la tecnología y las necesidades operativas del cliente. Este rol marcó mi incursión en el manejo de datos a un nivel más fundamental.
 
 * **Implementación de Sistemas Administrativos** 
 * **Soporte en Instalación de Bases de Datos (SQL Server)** 
@@ -43,8 +38,6 @@ Durante este período, me especialicé en la **implementación de sistemas admin
 ---
 
 ### IT Support Data Analyst | Cuenta Propia, Camor Enterprise | Febrero 2022 - Actualidad
-
-Actualmente, combino mi experiencia en soporte TI con una especialización profunda en el **análisis de datos y la integridad de la información**, convirtiéndome en un recurso clave para la toma de decisiones basada en datos y la recuperación de información crítica.
 
 * **Desarrollo de Consultas SQL Avanzadas**
 * **Validación y Consistencia de Datos** 
@@ -70,5 +63,53 @@ Este proyecto estratégico para Camor Enterprise implicó el desarrollo y la imp
     * **Consistencia Financiera** 
     * **Mantenimiento y Sostenibilidad:** 
 * **Tecnologías Utilizadas:** SQL (específicamente, uso de cursores y lógica de comparación de datos), Gestión de Bases de Datos.
+
+---
+
+
+### ---
+## Proyectos Destacados
+
+### 1. Optimización de Gastos de Marketing para Showz (Análisis de Datos) [REPO](https://github.com/gabrieltr18/Optimizacion_Gastos)
+
+**Descripción:** Como analista de datos en prácticas para Showz, una empresa de venta de entradas para eventos, mi proyecto principal fue optimizar los gastos de marketing mediante un análisis exhaustivo del comportamiento del cliente y la rentabilidad de las campañas. Utilicé **Python (Pandas, NumPy, Matplotlib, Seaborn)** y **SQL** para procesar y visualizar datos de visitas al sitio web, pedidos y costos de marketing.
+
+**Objetivos de la Investigación:**
+* Comprender el **comportamiento del cliente** y su interacción con el servicio.
+* Determinar el **momento de la primera compra** de los usuarios.
+* Calcular el **Lifetime Value (LTV)** de los clientes para entender su contribución financiera.
+* Analizar el **retorno de la inversión en marketing (ROMI)** para evaluar la eficacia de las campañas.
+* Identificar el **Costo de Adquisición de Cliente (CAC)** por fuente de tráfico.
+
+**Responsabilidades Clave y Metodología:**
+
+* **Preparación y Limpieza de Datos:**
+    * Cargué y exploré conjuntos de datos de visitas, pedidos y costos.
+    * Normalicé nombres de columnas y convertí tipos de datos (especialmente fechas) a formatos adecuados para el análisis.
+    * Manejo de valores nulos y filtrado de datos inconsistentes (ej. sesiones con duración negativa o compras con días de conversión negativos).
+
+* **Análisis de Comportamiento del Usuario:**
+    * Calculé **usuarios únicos diarios, semanales y mensuales** para entender la recurrencia.
+    * Analicé el **número de sesiones por día** y la **duración promedio de las sesiones** para identificar patrones de uso.
+    * Determinación del **tiempo hasta la primera compra** para comprender la ventana de conversión.
+
+* **Análisis de Rentabilidad y Marketing:**
+    * Calculé el **LTV por cohorte** para medir el valor que cada cliente aporta a lo largo del tiempo. Se asumió un margen de beneficio del 50% para el cálculo del beneficio bruto.
+    * Determinación del **gasto total de marketing**, así como el costo por **fuente de adquisición**.
+    * Cálculo del **CAC por fuente de adquisición** para evaluar la eficiencia de cada canal.
+    * Cálculo del **ROMI por fuente de adquisición** para identificar la rentabilidad de las inversiones en marketing.
+
+* **Visualización y Reporte:**
+    * Creación de **mapas de calor para LTV** para visualizar el crecimiento del valor del cliente a lo largo del tiempo por cohorte.
+    * Generación de gráficos para **sesiones diarias**, **CAC por fuente**, **ROMI por fuente**, **ingresos mensuales**, **usuarios únicos por dispositivo** y **costos mensuales** para una comprensión clara de las métricas clave.
+
+**Resultados y Recomendaciones:**
+
+* **Plataforma Principal (Desktop):** Identifiqué que la plataforma **Desktop** era consistentemente la de mayor rendimiento en términos de generación de ingresos. Esto sugirió una mayor inversión en marketing y optimización de la experiencia del usuario para este canal.
+* **Análisis de Tendencias:** Se observaron **picos de ingresos** en ciertos meses (ej., diciembre de 2017), indicando estacionalidad y oportunidades para campañas específicas. Los costos de marketing mostraron una tendencia general al alza, haciendo crucial el monitoreo del ROMI.
+* **Eficiencia de Inversión:** Las métricas de CAC y ROMI permitieron identificar las fuentes de marketing más rentables y menos rentables, recomendando la reasignación de presupuestos hacia aquellas con mayor retorno.
+* **Conclusión:** Aunque los costos aumentaron, el análisis demostró que el crecimiento de los ingresos justificaba la inversión. Las recomendaciones se centraron en **priorizar la plataforma de escritorio**, desarrollar **campañas orientadas al canal**, y mantener un **monitoreo continuo** de las métricas para ajustar la estrategia de marketing.
+
+**Tecnologías Utilizadas:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL.
 
 ---
