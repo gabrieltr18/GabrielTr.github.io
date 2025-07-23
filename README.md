@@ -1,4 +1,4 @@
-# Gabriel Trujillo
+# Acerca de mi
 
 #### Technical Skills: Python, Java, SQL, Tableau, PowerBI
 
@@ -57,7 +57,7 @@ Actualmente, combino mi experiencia en soporte TI con una especialización profu
 ## Proyectos
 ### ---
 
-### Automatización de Conciliación Bancaria Masiva | Camor Enterprise
+### Automatización de Conciliación Bancaria Masiva | Camor Enterprise [Repo](https://gabrieltr18.github.io/GabrielTr.github.io/)
 **Julio 2025 (y recurrente quincenalmente)**
 
 Este proyecto estratégico para Camor Enterprise implicó el desarrollo y la implementación de un **script SQL avanzado** para la conciliación eficiente de movimientos bancarios a gran escala, un proceso crítico que afecta a las operaciones financieras de 15 tiendas.
